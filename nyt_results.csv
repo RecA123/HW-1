@@ -1,0 +1,7 @@
+dataset,vectorizer,accuracy,macro_f1
+train,binary bag-of-words,1.0,1.0
+validation,binary bag-of-words,0.9809027777777778,0.9550694641357809
+test,binary bag-of-words,0.9887152777777778,0.9718092900732166
+train,word frequency bag-of-words,1.0,1.0
+validation,word frequency bag-of-words,0.9835069444444444,0.9625902950584084
+test,word frequency bag-of-words,0.9895833333333334,0.9742712191040632

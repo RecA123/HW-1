@@ -1,0 +1,2 @@
+model,max_length,epochs,accuracy,macro_f1
+BERT-base-uncased,64,3,0.9817708333333334,0.9590930737255263

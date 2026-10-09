@@ -1,0 +1,24 @@
+# GloVe 词向量
+
+glove.6B/
+glove.6B.zip
+
+# BERT 模型训练结果
+
+bert_nyt_results/
+
+# 数据集
+
+nyt.csv
+ag.csv
+
+# Python 缓存
+
+**pycache**/
+*.pyc
+.ipynb_checkpoints/
+
+# Python 虚拟环境
+
+venv/
+.venv/
